@@ -33,3 +33,9 @@ This project was developed as a personal learning and development initiative, fo
 
 ---
 
+## Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/vanshika-bwa/Splitzy.git
+cd Splitzy
