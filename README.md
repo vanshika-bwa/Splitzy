@@ -33,7 +33,6 @@ This project was developed as a personal learning and development initiative, fo
 
 ---
 
-## Getting Started
 
 ### 1. Clone the Repository
 ```bash
